@@ -1,0 +1,35 @@
+#!/bin/bash
+# /usr/local/bin/uppd
+# Usage: uppd - updates repo and packages
+#        uppd dist - updates repo,packages and distro updates.
+#########################
+# Ubuntu update script
+sudo dpkg --configure -a &>/dev/null
+sudo apt --fix-missing -y -f &>/dev/null
+function cleanup ()
+{
+    echo -e "\033[1;36mCleaning up and updating repositories...\033[0m"
+    sudo apt-get update
+    sudo apt-get install -f -y
+    sudo apt-get autoremove -y
+    sudo apt-get autoclean -y
+    sudo apt-get clean -y
+    sudo apt-get update
+    sudo apt-get install debfoster deborphan -y -q 2>/dev/null
+    sudo debfoster -q
+    sudo debfoster -f
+    sudo deborphan | xargs sudo apt-get -y remove --purge
+    sudo deborphan --guess-data | xargs sudo apt-get -y remove --purge
+}
+cleanup
+if [ "" == "dist" ]
+then
+    echo -e "\033[1;36mRunning dist upgrades...\033[0m"
+    sudo apt-get upgrade -y
+    sudo apt-get dist-upgrade -y
+else
+    echo -e "\033[1;36mRunning standard upgrades...\033[0m"
+    sudo apt-get upgrade -y
+fi
+cleanup
+echo -e "\033[1;34muppd completed\033[0m"
