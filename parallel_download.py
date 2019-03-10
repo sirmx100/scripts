@@ -17,9 +17,9 @@ import dummy
 # change this
 url = "https://url/file"
 
-headers = {'user-agent': 'test-app/0.0.1'}
+headers = {'user-agent': 'sirmx/0.0.1'}
 
-shared_bytes_var = multiprocessing.Value(c_int, 0) # a ctypes var that counts the bytes already downloaded
+shared_bytes_var = multiprocessing.Value(c_int, 0)
 
 def DownloadFile(url, path, startByte=0, endByte=None, ShowProgress=True):
 	url = url.replace(' ', '%20')
