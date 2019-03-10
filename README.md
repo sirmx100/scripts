@@ -10,3 +10,6 @@ Updates Debian based OS
 
 # xsstest
 Automates XSS testing for URLs
+
+# parallel_download.py
+Downloads files using python with parallel threads and progress bar
