@@ -1,0 +1,2 @@
+#!/bin/bash
+xsser --Onm --Ifr --Doss --Dos --Anchor --Ind --Dom --Dcp --Xsr --Xsa --Coo --Str --Une --Mix --Dec --Hex --Hes --Dwo --Doo --auto --all="$1"
