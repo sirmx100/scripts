@@ -1,0 +1,173 @@
+ALIAS	COUNTRY					LOCATION			RECOMMENDED
+-----	---------------				------------------------------	-----------
+smart	Smart Location				USA - Atlanta			
+hk2	Hong Kong (HK)				Hong Kong - 2			Y
+hk1						Hong Kong - 1			
+hk3						Hong Kong - 3			
+hk4						Hong Kong - 4			
+hk6						Hong Kong - 6			
+hk5						Hong Kong - 5			
+usny	United States (US)			USA - New York			Y
+ussf						USA - San Francisco		Y
+usch						USA - Chicago			Y
+uswd						USA - Washington DC		Y
+usda						USA - Dallas			Y
+usla2						USA - Los Angeles - 2		Y
+usmi2						USA - Miami - 2			Y
+usse						USA - Seattle			Y
+usmi						USA - Miami			
+usla3						USA - Los Angeles - 3		
+usnj1						USA - New Jersey - 1		
+uswd2						USA - Washington DC - 2		
+usnj3						USA - New Jersey - 3		
+usde						USA - Denver			
+ussl1						USA - Salt Lake City		
+uskc						USA - Kansas City		
+usta1						USA - Tampa - 1			
+usph						USA - Phoenix			
+usla1						USA - Los Angeles - 1		
+usvi						USA - Virginia			
+usny2						USA - New York - 2		
+usnj2						USA - New Jersey - 2		
+usho						USA - Hollywood			
+usda2						USA - Dallas - 2		
+usmi						USA - Minneapolis		
+usbo						USA - Boston			
+usla						USA - Los Angeles		
+ussj						USA - San Jose			
+usat						USA - Atlanta			
+usla5						USA - Los Angeles - 5		
+usla4						USA - Los Angeles - 4		
+ussm						USA - Santa Monica		
+ussf1						USA - San Francisco via HK	
+ussf2						USA - San Francisco - 2		
+inmu1	India (IN)				India - Mumbai - 1		
+in						India (via UK)			
+inch						India - Chennai			
+cato	Canada (CA)				Canada - Toronto		Y
+cato2						Canada - Toronto - 2		Y
+cava						Canada - Vancouver		
+camo						Canada - Montreal		
+sgju	Singapore (SG)				Singapore - Jurong		
+sgcb						Singapore - CBD			
+sgmb						Singapore - Marina Bay		
+ukdo	United Kingdom (GB)			UK - Docklands			Y
+ukel						UK - East London		Y
+uklo						UK - London			Y
+ukbe						UK - Berkshire			
+ukke						UK - Kent			
+ukbe2						UK - Berkshire - 2		
+ukwe						UK - Wembley			
+jpto3	Japan (JP)				Japan - Tokyo - 3		
+jpto2						Japan - Tokyo - 2		
+jpto1						Japan - Tokyo - 1		
+nlam	Netherlands (NL)			Netherlands - Amsterdam		Y
+nlro						Netherlands - Rotterdam		Y
+nlth						Netherlands - The Hague		
+aume	Australia (AU)				Australia - Melbourne		
+ausy						Australia - Sydney		
+ausy3						Australia - Sydney - 3		
+aupe						Australia - Perth		
+aubr						Australia - Brisbane		
+ausy2						Australia - Sydney - 2		
+ch2	Switzerland (CH)			Switzerland - 2			Y
+ch						Switzerland			
+frpa1	France (FR)				France - Paris - 1		Y
+frst						France - Strasbourg		
+frpa2						France - Paris - 2		
+mx	Mexico (MX)				Mexico				Y
+defr1	Germany (DE)				Germany - Frankfurt - 1		Y
+denu						Germany - Nuremberg		
+defr2						Germany - Frankfurt - 2		
+deda						Germany - Darmstadt		
+itmi	Italy (IT)				Italy - Milan			Y
+itco						Italy - Cosenza			
+krsk2	Korea, Republic of (KR)			South Korea - 2			
+krsk						South Korea			
+ph	Philippines (PH)			Philippines (via Singapore)	
+my	Malaysia (MY)				Malaysia			
+lk	Sri Lanka (LK)				Sri Lanka			
+pk	Pakistan (PK)				Pakistan			
+kz	Kazakhstan (KZ)				Kazakhstan			
+th	Thailand (TH)				Thailand			
+id	Indonesia (ID)				Indonesia			
+nz	New Zealand (NZ)			New Zealand			
+tw3	Taiwan (TW)				Taiwan - 3			
+twvh						Taiwan via HK			
+twvh2						Taiwan via HK - 2		
+vn	Vietnam (VN)				Vietnam				
+mo	Macau (MO)				Macau				
+kh	Cambodia (KH)				Cambodia			
+mn	Mongolia (MN)				Mongolia			
+la	Lao People's Democratic Republic (LA)	Laos				
+mm	Myanmar (MM)				Myanmar				
+np	Nepal (NP)				Nepal				
+kg	Kyrgyzstan (KG)				Kyrgyzstan			
+uz	Uzbekistan (UZ)				Uzbekistan			
+bd	Bangladesh (BD)				Bangladesh			
+bt	Bhutan (BT)				Bhutan				
+bnbr	Brunei Darussalam (BN)			Brunei				
+br2	Brazil (BR)				Brazil - 2			
+br						Brazil				
+pa	Panama (PA)				Panama				
+cl	Chile (CL)				Chile				
+ar	Argentina (AR)				Argentina			
+cr	Costa Rica (CR)				Costa Rica			
+co	Colombia (CO)				Colombia			
+ve	Venezuela (VE)				Venezuela			
+ec	Ecuador (EC)				Ecuador				
+gt	Guatemala (GT)				Guatemala			
+pe	Peru (PE)				Peru				
+uy	Uruguay (UY)				Uruguay				
+bs	Bahamas (BS)				Bahamas				
+se	Sweden (SE)				Sweden				
+se2						Sweden - 2			
+ro	Romania (RO)				Romania				
+im	Isle of Man (IM)			Isle of Man			
+esma	Spain (ES)				Spain - Madrid			
+esba						Spain - Barcelona		
+tr	Turkey (TR)				Turkey				
+ie	Ireland (IE)				Ireland				
+is	Iceland (IS)				Iceland				
+no	Norway (NO)				Norway				
+dk	Denmark (DK)				Denmark				
+be	Belgium (BE)				Belgium				
+fi	Finland (FI)				Finland				
+gr	Greece (GR)				Greece				
+pt	Portugal (PT)				Portugal			
+at	Austria (AT)				Austria				
+ru	Russia (RU)				Russia				
+am	Armenia (AM)				Armenia				
+pl	Poland (PL)				Poland				
+lt	Lithuania (LT)				Lithuania			
+lv	Latvia (LV)				Latvia				
+ee	Estonia (EE)				Estonia				
+cz	Czech Republic (CZ)			Czech Republic			
+ad	Andorra (AD)				Andorra				
+me	Montenegro (ME)				Montenegro			
+ba	Bosnia and Herzegovina (BA)		Bosnia and Herzegovina		
+lu	Luxembourg (LU)				Luxembourg			
+hu	Hungary (HU)				Hungary				
+bg	Bulgaria (BG)				Bulgaria			
+by	Belarus (BY)				Belarus				
+ua	Ukraine (UA)				Ukraine				
+mt	Malta (MT)				Malta				
+li	Liechtenstein (LI)			Liechtenstein			
+cy	Cyprus (CY)				Cyprus				
+al	Albania (AL)				Albania				
+hr	Croatia (HR)				Croatia				
+si	Slovenia (SI)				Slovenia			
+sk	Slovakia (SK)				Slovakia			
+mc	Monaco (MC)				Monaco				
+je	Jersey (JE)				Jersey				
+mk	Macedonia (MK)				Macedonia			
+mdmo	Moldova, Republic of (MD)		Moldova				
+rs	Serbia (RS)				Serbia				
+ge	Georgia (GE)				Georgia				
+az	Azerbaijan (AZ)				Azerbaijan			
+za	South Africa (ZA)			South Africa			
+il	Israel (IL)				Israel				
+eg	Egypt (EG)				Egypt				
+ke	Kenya (KE)				Kenya				
+dz	Algeria (DZ)				Algeria				
+
